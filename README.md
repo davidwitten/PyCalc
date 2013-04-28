@@ -10,6 +10,6 @@ Features
 
 Determines if 3 side lengths turn into a right triangle
 
--/sin number
+- /sin number
 
 Calculates sin(number), also can work for 
