@@ -17,3 +17,11 @@ Calculates sin(number), also can work for
 - /prime number
 
 Calculates if a number is prime.
+
+This is how it works:
+
+    def prime(number):
+      for i in range(2, int(sqrt(number))+1):
+        if number%i == 0:
+            return 0
+      return 1
