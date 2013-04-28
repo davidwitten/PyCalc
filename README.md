@@ -6,8 +6,10 @@ The better calculator in python.
 Features
 --------
 
-    /right
+-/right number number number
 
 Determines if 3 side lengths turn into a right triangle
 
-and more!
+-/sin number
+
+Calculates sin(number), also can work for 
