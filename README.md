@@ -1,6 +1,10 @@
 PyCalc
 ======
 
+Note
+----
+This has been updated. The new version is called GoodCalc, and it works much better. https://github.com/dwizard/goodcalc
+
 The better calculator in python. 
 
 Features
